@@ -3,6 +3,7 @@
   <h1>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdveWcwN3cycW5sNWE3bnJ6bHBsaTM5NHlicW82dTUxcDh3ZTBpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" width="60" alt="Robot Arm" /> 
     Irfan Gazi
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNhbmF4M2pwc2Vkd3lwZTU0MTIwNW44eHd0ZG1veG9mazA4Mnk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8EpV2lyQ970MGRkg37/giphy.gif" width="60" alt="Robot Arm" /> 
   </h1>
 
   <a href="https://git.io/typing-svg">
@@ -21,12 +22,12 @@
 
 ## ⚡ About Me
 
-I am a **research-oriented AI practitioner** focusing on construction safety-critical domains. My work bridges the gap between **Generative AI** and **physical infrastructure**.
+For now, I am mostly interested in LLMs focused on construction safety.
 
-* 🏗️ **Core Focus:** Building **LLM-based systems** for construction safety, inspection, and automation.
-* 🤖 **Current Work:** Experimenting with **RAG (Retrieval-Augmented Generation)**, chatbot systems, and vector database optimization.
-* 🧠 **Interests:** I love **chunking strategies**, PDF parsing, and designing efficient **AI perception** workflows.
-* 🐧 **Side Quest:** Deeply into **Linux/GNOME customization** and environment ricing.
+* 🏗️ **Core Focus:** Building LLM sutff for construction safety, inspection, and automation.
+* 🤖 **Current Work:** Experimenting with **RAG**, chatbot systems, and vector database optimization.
+* 🧠 **Interests:** I love to build bots that work, PDF parsing, and designing n8n workflows.
+* 🐧 **Side Quest:** Deeply into **Linux customization** and a bit of ROS 2 humble.
 
 ---
 
