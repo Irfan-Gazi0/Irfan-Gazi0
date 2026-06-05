@@ -12,9 +12,9 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/Focus-LLM_%26_RAG-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Domain-Construction_Safety-orange?style=for-the-badge&logo=cone" />
-  <img src="https://img.shields.io/badge/Tech-Linux_%2F_GNOME-yellow?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Focus-LLM-blue?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Domain-Construction_Management-orange?style=for-the-badge&logo=cone" />
+  <img src="https://img.shields.io/badge/Tech-Linux_%2F_Ubuntu-yellow?style=for-the-badge&logo=linux" />
 
 </div>
 
