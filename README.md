@@ -22,12 +22,12 @@
 
 ## ⚡ About Me
 
-For now, I am mostly interested in LLMs focused on construction safety.
+For now, I am playing with multiagent LLM for orchestrating different roles in construction training and education.
 
-* 🏗️ **Core Focus:** Building LLM sutff for construction safety, inspection, and automation.
-* 🤖 **Current Work:** Experimenting with **RAG**, chatbot systems, and vector database optimization.
-* 🧠 **Interests:** I love to build bots that work, PDF parsing, and designing n8n workflows.
-* 🐧 **Side Quest:** Deeply into **Linux customization** and a bit of ROS 2 humble.
+* 🏗️ **Core Focus:** Building cool agents for construction safety training and robot automation.
+* 🤖 **Current Work:** Experimenting with **RAG** and MCP.
+* 🧠 **Interests:** I love to build agents that work and make my life easier.
+* 🐧 **Side Quest:** Now-a-days exploring into ROS 2 humble.
 
 ---
 
