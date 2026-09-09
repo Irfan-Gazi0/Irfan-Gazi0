@@ -22,18 +22,18 @@
 
 ## ⚡ About Me
 
-For now, I am playing with multiagent LLM for orchestrating different roles in construction training and education.
+For now, I am playing with multi-agent LLMs for orchestrating different roles in construction training and education.
 
-* 🏗️ **Core Focus:** Building cool agents for construction safety training and robot automation.
-* 🤖 **Current Work:** Experimenting with **RAG** and MCP.
-* 🧠 **Interests:** I love to build agents that work and make my life easier.
-* 🐧 **Side Quest:** Now-a-days exploring into ROS 2 humble.
+* 🏗️ **Core Focus:** Building cool agents for construction safety and robot automation.
+* 🤖 **Current Work:** Experimenting with **Multi-modal Agents** and MCP.
+* 🧠 **Interests:** I love to build agents that make my life easier.
+* 🐧 **Side Quest:** Now-a-days exploring webXR and physical AI.
 
 ---
 
 <div align="center">
 
-  **Core AI & Engineering**
+  **AI & Engineering Tools**
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,tensorflow,pytorch,linux,bash,docker,ros&theme=dark" />
@@ -41,7 +41,7 @@ For now, I am playing with multiagent LLM for orchestrating different roles in c
 
   <br>
 
-  **Web, Data & Tools**
+  **Web & Data Viz Tools**
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=supabase,postgres,vscode,figma,github,unity&theme=dark" />
