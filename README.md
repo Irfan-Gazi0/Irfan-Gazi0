@@ -25,9 +25,9 @@
 For now, I am playing with multi-agent LLMs for orchestrating different roles in construction training and education.
 
 * **Core Focus:** Building cool agents for construction safety and robot automation.
-* **Current Work:** Experimenting with **Multi-modal Agents** and MCP.
-* **Interests:** I love to build agents that make my life easier.
-* **Side Quest:** Now-a-days exploring webXR and physical AI.
+* **Current Work:** Experimenting with **Multi-modal Agents** and MCP tools.
+* **Interests:** Developing cool agents that make my life easier.
+* **Side Quest:** Tinkering with webXR and physical AI.
 
 ---
 
