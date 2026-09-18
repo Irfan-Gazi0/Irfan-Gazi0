@@ -3,6 +3,7 @@
   <h1>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdveWcwN3cycW5sNWE3bnJ6bHBsaTM5NHlicW82dTUxcDh3ZTBpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" width="60" alt="Robot Arm" /> 
     Irfan Gazi
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNhbmF4M2pwc2Vkd3lwZTU0MTIwNW44eHd0ZG1veG9mazA4Mnk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8EpV2lyQ970MGRkg37/giphy.gif" width="60" alt="Robot Arm" /> 
   </h1>
 
   <a href="https://git.io/typing-svg">
@@ -14,7 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-irfan--gazi0.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfan-gazi0.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfan%20Gazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gazi/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Nkbeio8AAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-igazi2%40huskers.unl.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igazi2@huskers.unl.edu)
 
 </div>
 
