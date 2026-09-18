@@ -12,9 +12,9 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/Focus-LLM-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Domain-Construction_Management-orange?style=for-the-badge&logo=cone" />
-  <img src="https://img.shields.io/badge/Tech-Linux_%2F_Ubuntu-yellow?style=for-the-badge&logo=linux" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfan%20Gazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gazi/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Nkbeio8AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-igazi2%40huskers.unl.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igazi2@huskers.unl.edu)
 
 </div>
 
