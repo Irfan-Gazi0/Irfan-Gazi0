@@ -7,7 +7,7 @@
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=UBuntu&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=LLM+%7C+RAG+%7C+Applied+ML;Building+AI+for+Construction+Safety;Automating+Inspection+%26+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=UBuntu&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=LLM+%7C+RAG+%7C+ML;Building+Smart+Assistant+for+Construction;Automating+Inspection+%26+Infrastructure" alt="Typing SVG" />
   </a>
 
   <br>
@@ -22,11 +22,11 @@
 
 ## About Me
 
-I build multi-agent LLM systems that orchestrate different roles (trainer, inspector, safety officer) for construction training and education — currently pairing that with MCP tools and multi-modal agents so they can act on real inspection data, not just chat about it.
+I build multi-agent systems that orchestrate different roles for construction training and education. Enabling them to act on agency knowledge base, not just chat about it.
 
-* **Core Focus:** Construction safety and robot automation, with LLM agents as the control layer.
-* **Current Work:** Multi-modal agents wired to MCP tools for inspection workflows.
-* **Side Quest:** WebXR — see the [3D CV](https://irfan-gazi0.github.io/Portfolio/xr/) on my portfolio site.
+* **Core Focus:** Construction safety and robot automation, with multi-modal agents as the control layer.
+* **Current Work:** Building integrated smart assistant in a virtual environment.
+* **Side Quest:** Building some webXR platforms, visit the [3D CV](https://irfan-gazi0.github.io/Portfolio/xr/) on my portfolio site.
 
 ---
 
