@@ -18,7 +18,7 @@
 
 </div>
 
----
+<br>
 
 ## About Me
 
@@ -33,7 +33,7 @@ For now, I am playing with multi-agent LLMs for orchestrating different roles in
 
 <div align="center">
 
-  **AI & Engineering Tools**
+  **AI, Robotics & Systems**
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,tensorflow,pytorch,linux,bash,docker,ros&theme=dark" />
@@ -41,7 +41,7 @@ For now, I am playing with multi-agent LLMs for orchestrating different roles in
 
   <br>
 
-  **Web & Data Viz Tools**
+  **XR, Engines & Infrastructure**
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=supabase,postgres,vscode,figma,github,unity&theme=dark" />
@@ -49,22 +49,8 @@ For now, I am playing with multi-agent LLMs for orchestrating different roles in
 
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-Gazi0&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Irfan's GitHub Streak" />
 </div>
 
----
-
-<div align="center">
-  <a href="mailto:igazi2@huskers.unl.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/irfan-gazi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://irfan-gazi0.github.io/Portfolio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
-  </a>
-</div>
