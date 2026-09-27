@@ -8,9 +8,9 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNhbmF4M2pwc2Vkd3lwZTU0MTIwNW44eHd0ZG1veG9mazA4Mnk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8EpV2lyQ970MGRkg37/giphy.gif" width="60" alt="Robot Arm" /> 
   </h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8/10-0a0ac2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfan-gazi0.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9/10-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gazi/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-6/10-0ac2c2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Nkbeio8AAAAJ&hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0ac2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfan-gazi0.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gazi/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0ac2c2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Nkbeio8AAAAJ&hl=en)
 
 </div>
 
