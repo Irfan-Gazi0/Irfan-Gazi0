@@ -3,7 +3,7 @@
   <h1>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdveWcwN3cycW5sNWE3bnJ6bHBsaTM5NHlicW82dTUxcDh3ZTBpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" width="60" alt="Robot Arm" /> 
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=UBuntu&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Language Models+%7C+RAG+%7C+ML;Building+Smart+Assistant+for+training;Automating+Inspection+%26+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=UBuntu&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Language+Models+%7C+RAG+%7C+ML;Building+Smart+Assistant+for+training;Automating+Inspection+%26+Infrastructure" alt="Typing SVG" />
   </a>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNhbmF4M2pwc2Vkd3lwZTU0MTIwNW44eHd0ZG1veG9mazA4Mnk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8EpV2lyQ970MGRkg37/giphy.gif" width="60" alt="Robot Arm" /> 
   </h1>
